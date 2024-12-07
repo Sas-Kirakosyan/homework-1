@@ -1,5 +1,5 @@
 import Section from "./components/section";
-
+// TODO buttonsTitle need to change buttonsTitles (hognaki lini, @ndhanur lav er)
 function Page() {
   const contents = [
     {
